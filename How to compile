@@ -1,2 +1,2 @@
-g++ cube.cpp -lGL -lGLEW -lSDL2
+g++ lab5.cpp -lGL -lGLEW -lSDL2
 
