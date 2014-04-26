@@ -1,3 +1,5 @@
+//Example code used from http://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_06
+
 #include "initShaders.h"
 #include <cstdlib>
 using namespace std;
